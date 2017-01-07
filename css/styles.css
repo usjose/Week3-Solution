@@ -1,0 +1,51 @@
+#header-nav{
+
+	background-color: #D3D3D3;
+	border-radius: 0;
+	border:0;
+	padding: 30px;
+	margin:-9px;
+
+}
+
+#logo-img{
+	background: url('../images/Brand_Big.jpg') no-repeat;
+	width: 300px;
+	height:77px;
+	position:absolute;
+	top:20px;
+	left:20px;
+
+
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+#Dummy_Text{
+
+	background-color: #B0E0E6;
+
+}
+
+body { padding-top: 100px; 
+
+}
+
+@media (max-width: 750px){
+
+	#logo-img{
+	background: url('../images/Brand_Small.jpg') no-repeat;
+	width: 145px;
+	height:43px;
+	top:35px;
+	left:35px;
+
+}
+
+
+
+
+}
